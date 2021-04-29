@@ -1,0 +1,6 @@
+web/sites/default/files/php/twig/*
+web/sites/default/*
+vendore/*
+web/modules/*
+web/themes/*
+
